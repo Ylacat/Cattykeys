@@ -1,0 +1,25 @@
+{
+  "name": "cattykeys",
+  "version": "1.0.0",
+  "description": "Stops your cat from playing piano on your keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "lock"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ylacat/Cattykeys.git"
+  },
+  "keywords": [
+    "catkeyboard"
+  ],
+  "author": "Frederick Ambo, Tacaly",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Ylacat/Cattykeys/issues"
+  },
+  "homepage": "https://github.com/Ylacat/Cattykeys#readme",
+  "dependencies": {
+    "lock-system": "^2.0.0"
+  }
+}
